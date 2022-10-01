@@ -1,14 +1,14 @@
 # Movie-App
 
-#### The project is based on a movie streaming platform. The project facilities you to watch the movie trailer. 
-#### It fetches movies' names, posters, and the category of the movie from the TMDB API services(Movies database).
+### The project is based on a movie streaming platform. The project facilities you to watch the movie trailer. 
+### It fetches movies' names, posters, and the category of the movie from the TMDB API services(Movies database).
 
 
 ## Technology used
 
-#### Frontend :- HTML, CSS, Javascript
+### Frontend :- HTML, CSS, Javascript
 
-#### Backend :- Nodejs, Express(server), MongoDB(Database)
+### Backend :- Nodejs, Express(server), MongoDB(Database)
 
 ## Installation
 
