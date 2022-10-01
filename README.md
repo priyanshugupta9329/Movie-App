@@ -74,7 +74,7 @@ Start the server
 
 - [https://movie-trailer-app9329.herokuapp.com/](https://movie-trailer-app9329.herokuapp.com/)
 
-## Screenshots
+# Screenshots
 
 ![](img/img1.PNG)
 ![](img/img2.PNG)
