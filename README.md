@@ -33,9 +33,14 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd movie-app
 ```
 
+Go to the netflix-ui
+
+```bash
+  cd netflix-ui
+```
 Install dependencies
 
 ```bash
@@ -54,7 +59,13 @@ Start the server
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd movie-app
+```
+
+Go to the netflix-api
+
+```bash
+  cd netflix-api
 ```
 
 Install dependencies
